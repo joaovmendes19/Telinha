@@ -1,5 +1,0 @@
-C:\Users\joao.mende\Documents\Telinha\bin\Debug\net7.0-windows\publish\Telinha.exe
-C:\Users\joao.mende\Documents\Telinha\bin\Debug\net7.0-windows\publish\Telinha.dll
-C:\Users\joao.mende\Documents\Telinha\bin\Debug\net7.0-windows\publish\Telinha.deps.json
-C:\Users\joao.mende\Documents\Telinha\bin\Debug\net7.0-windows\publish\Telinha.runtimeconfig.json
-C:\Users\joao.mende\Documents\Telinha\bin\Debug\net7.0-windows\publish\Telinha.pdb
